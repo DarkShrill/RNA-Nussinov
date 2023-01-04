@@ -13,9 +13,11 @@ Project of Algoritmi e Strutture Dati. To realize in Java an implementation of N
 * Write a report on the project and make an oral presentation of it using slides and the written code.
 
 # LINKS:
-[CLICK HERE FOR VIEW A ASSIGNMENT OF PROJECT (PDF)]()
+[CLICK HERE FOR VIEW A ASSIGNMENT OF PROJECT (PDF)](https://github.com/DarkShrill/RNA-Nussinov/blob/main/progetto1.pdf)
 
-[CLICK HERE FOR VIEW A REPORT OF PROJECT (PDF)]()
+[CLICK HERE FOR VIEW A REPORT OF PROJECT (PDF)](https://github.com/DarkShrill/RNA-Nussinov/blob/main/src/main/RelazioneScritta/Relazione%20Progetto%20ASD-L.pdf)
+
+[CLICK HERE FOR VIEW PERFORMANCE EVALUATION (PDF)](https://github.com/DarkShrill/RNA-Nussinov/blob/main/src/main/evaluationFrameworkData/PDF%20VALUTAZIONE%20DELLE%20PRESTAZIONI.pdf)
 
 
 # ENJOY   :)
